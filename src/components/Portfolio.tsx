@@ -15,6 +15,11 @@ const projects = [
     description: 'A brief description of Project 3.',
     imageUrl: 'https://picsum.photos/400/301',
   },
+  {
+    name: 'Affected Mob',
+    description: 'Website for affectedmob.com',
+    imageUrl: 'https://picsum.photos/402/300',
+  },
 ];
 
 export const Portfolio = () => {
